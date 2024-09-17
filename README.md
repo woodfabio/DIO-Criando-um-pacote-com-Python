@@ -12,5 +12,7 @@ This Python package provides two simple functions for calculating the sum of num
 To install this package locally, clone the repository and run the following command in the package root directory (where `setup.py` is located):
 
 ```bash
-pip install .
+pip install pacote-matrizes
 ```
+
+The package is located at https://pypi.org/project/pacote-matrizes/
